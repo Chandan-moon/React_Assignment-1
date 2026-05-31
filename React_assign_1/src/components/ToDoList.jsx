@@ -14,7 +14,9 @@ function ToDoList({ tasks, deleteTask, toggleComplete, editTask }) {
 
                 <div className="empty-state">
 
-                    <h3>Add Task</h3>
+                    <h3>No Task Added yet</h3>
+
+                    <p>Add your First Task</p>
 
                 </div>
 
