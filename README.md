@@ -34,7 +34,7 @@ A modern and responsive To-Do List application built using React and Vite.
 
 # Terminal Commands ---
 
-- npm install npm 
+- npm install
 - npm run dev 
 
 
